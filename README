@@ -1,3 +1,7 @@
 Group Members:
-
 Sean Cox   : seanrob9898@csu.fullerton.edu
+
+Program Description:
+This program is a framework that generates a vector that holds alternating light and dark disks. The program includes two unique algorithms that sort the vectors in a 
+format such as all of the light disks on the left, and all of the dark disks on the right. The purpose of this program is to analyze the time complexity and 
+display knowledge of algorithm related concepts. 
