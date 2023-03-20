@@ -1,3 +1,6 @@
+Project 1
+Sean Cox : seanrob9898@csu.fullerton.edu
+
 Lawnmower:
 Input:
 n = number of light dark disk pairs in a list.
@@ -24,7 +27,6 @@ sorted list of disks
 numberofswaps
 
 big O complexicity = O(n^2)
-
 
 Alternate:
 Input:
